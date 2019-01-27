@@ -14,7 +14,7 @@
    1. operadores relacionais e lógicos
    1. estruturas condicionais
    1. arrays
-   1. #App2 Frases do dia
+   1. [#App2 Frases do dia](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/TreinandoJAVA/FrasesDoDia)
    1. switch
    1. Loops (while - do...while e for)
 1. Bricando com orientação a objetos
