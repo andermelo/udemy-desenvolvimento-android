@@ -15,3 +15,25 @@
    1. estruturas condicionais
    1. arrays
    1. #App2 Frases do dia
+   1. switch
+   1. Loops (while - do...while e for)
+1. Bricando com orientação a objetos
+1. Layouts
+1. Componentes de Interface
+1. Componentes de listagem
+1. Navegação - Activities e Fragments
+1. Mídias
+1. Firebase
+1. Organizze clone 
+1. WhatsApp
+1. Instagram
+1. Threads & Consumo de serviço Web
+1. Youtube
+1. OLX
+1. Mapas e Geolocalização
+1. Uber
+1. Ifood
+1. Flappy Bird
+1. Extras
+1. Publicando seu App na Google Play
+1. Kotlin :heart:
