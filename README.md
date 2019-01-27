@@ -8,8 +8,8 @@
 ### Conteúdos 
 
 1. [Primeiro Projeto (#App1 Sorteio)](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/PrimeiroProjeto)
-1. Treinando JAVA :coffee:
-   1. variáveis e constantes
+1. [Treinando JAVA](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/TreinandoJAVA) :coffee:
+   1. [variáveis e constantes](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/TreinandoJAVA/VariaveisConstantes)
    1. operadores básicos aritméticos
    1. operadores relacionais e lógicos
    1. estruturas condicionais
