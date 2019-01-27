@@ -1,6 +1,7 @@
 # Desenvolvimento Android
 
-![O Hero Android](https://developer.android.com/about/versions/oreo/images/o-hero.png)
+![by Google in the official site for Android app developers](https://github.com/andermelo/udemy-desenvolvimento-android/blob/master/assets/images/android-image.png)
+> image :point_up: by [Android Developer](https://developer.android.com/) 
 
 ## Material desenvolvido no curso da [Udemy](https://www.udemy.com/curso-de-desenvolvimento-android-oreo/)
 
