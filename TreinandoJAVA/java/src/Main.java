@@ -21,7 +21,43 @@ public class Main {
         //arrays
         String[] nomes = {"Anderson", "Pedro"};
 
-        System.out.println( nomes[0] );
+        //System.out.println( nomes[0] );
+
+        //Swith
+
+        switch (6){
+            case 1 :
+                System.out.println("teste");
+                break;
+            case 2 :
+                System.out.println("teste 2");
+                break;
+            default:
+                System.out.println("padrão");
+
+        }
+
+
+        System.out.println( nomes[0] + "\n" + nomes[1] );
+
+
+        //loops
+
+        int numero = 1;
+        while(numero <= 3){
+            System.out.println("Executou!!! " + numero);
+            numero = numero + 1;
+        }
+
+        do{
+            System.out.println(numero);
+            numero = numero + 1;
+        }while (numero < 1);
+
+        for(int n=1;n<5;n++){
+            System.out.println(n);
+        }
+
 
     }
 }
