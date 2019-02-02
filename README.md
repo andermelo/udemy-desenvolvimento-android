@@ -3,7 +3,7 @@
 ![by Google in the official site for Android app developers](https://github.com/andermelo/udemy-desenvolvimento-android/blob/master/assets/images/android-image.png)
 > *image* :point_up: *by [Android Developer](https://developer.android.com/)* 
 
-## Material desenvolvido no curso da [Udemy](https://www.udemy.com/curso-de-desenvolvimento-android-oreo/)
+## Material desenvolvido durante o curso da [Udemy](https://www.udemy.com/curso-de-desenvolvimento-android-oreo/)
 
 ### Conteúdos 
 
