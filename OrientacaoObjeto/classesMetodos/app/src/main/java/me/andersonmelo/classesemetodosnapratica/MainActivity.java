@@ -12,7 +12,86 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Animal animal = new Animal();
+
+        Obama obama = new Obama();
+        obama.direitosDeveres();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //ContaBancaria conta =  new ContaBancaria( );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //Pessoa pessoa = new Pessoa();
+        //pessoa.exibirDados("Pedro",2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //Animal animal = new Animal();
 
         /*
         Conta conta = new Conta();
@@ -20,22 +99,6 @@ public class MainActivity extends AppCompatActivity {
         conta.sacar(50);//150
         System.out.println( conta.recuperarSaldo() );
         */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         //Passaro passaro = new Passaro();
         //passaro.correr();
