@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         }else {
             textResultado.setText("Preencha os preços primeiro!!");
         }
+
     }
 
     public void calcularMelhorPreco(String pAlcool,String pGasolina){
