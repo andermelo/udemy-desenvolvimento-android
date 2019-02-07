@@ -9,14 +9,7 @@
 
 1. [Primeiro Projeto (#App1 Sorteio)](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/PrimeiroProjeto)
 1. [Treinando JAVA](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/TreinandoJAVA) :coffee:
-   1. variáveis e constantes
-   1. operadores básicos aritméticos
-   1. operadores relacionais e lógicos
-   1. estruturas condicionais
-   1. arrays
    1. [#App2 Frases do dia](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/TreinandoJAVA/FrasesDoDia)
-   1. switch
-   1. Loops (while - do...while e for)
 1. [Bricando com orientação a objetos](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/OrientacaoObjeto/classesMetodos)
    1. [#App3 Pedra papel tesoura lagarto spock](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/OrientacaoObjeto/Pedrapapeltesoura) :metal:
 1. [Layouts](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Layouts)
