@@ -22,8 +22,8 @@
 1. [Layouts](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Layouts)
 1. [Componentes de Interface](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Componentesdeinterface)
    1. [#App4 Álcool ou Gasolina](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Componentesdeinterface/Alcoolougasolina)
-   1. [#App5 Calculadora de gorjeta](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Componentesdeinterface)   
-1. Componentes de listagem
+   1. [#App5 Calculadora de gorjeta](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Componentesdeinterface/Calcgorjeta)   
+1. [Componentes de listagem]()
 1. Navegação - Activities e Fragments
 1. Mídias
 1. Firebase
