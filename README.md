@@ -11,7 +11,7 @@
 1. [Treinando JAVA](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/TreinandoJAVA) :coffee:
    1. [#App2 Frases do dia](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/TreinandoJAVA/FrasesDoDia)
 1. [Bricando com orientação a objetos](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/OrientacaoObjeto/classesMetodos)
-   1. [#App3 Pedra papel tesoura lagarto spock](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/OrientacaoObjeto/Pedrapapeltesoura) :metal:
+   1. [#App3 Pedra papel tesoura lagarto e spock](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/OrientacaoObjeto/Pedrapapeltesoura) :metal:
 1. [Layouts](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Layouts)
 1. [Componentes de Interface](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Componentesdeinterface)
    1. [#App4 Álcool ou Gasolina](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Componentesdeinterface/Alcoolougasolina)
