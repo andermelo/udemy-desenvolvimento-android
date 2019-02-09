@@ -1,4 +1,4 @@
-package me.andersonmelo.recyclerview.activity.acivity.model;
+package me.andersonmelo.recyclerview.activity.model;
 
 public class Filme {
 

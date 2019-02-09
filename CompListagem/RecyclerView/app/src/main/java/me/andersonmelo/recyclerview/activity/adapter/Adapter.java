@@ -1,4 +1,4 @@
-package me.andersonmelo.recyclerview.activity.acivity.adapter;
+package me.andersonmelo.recyclerview.activity.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.widget.TextView;
 import java.util.List;
 
 import me.andersonmelo.recyclerview.R;
-import me.andersonmelo.recyclerview.activity.acivity.model.Filme;
+import me.andersonmelo.recyclerview.activity.model.Filme;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
 
