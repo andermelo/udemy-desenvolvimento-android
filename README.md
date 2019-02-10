@@ -17,7 +17,9 @@
    1. [#App4 Álcool ou Gasolina](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Componentesdeinterface/Alcoolougasolina)
    1. [#App5 Calculadora de gorjeta](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Componentesdeinterface/Calcgorjeta)   
 1. [Componentes de listagem](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/CompListagem)
-1. Navegação - Activities e Fragments
+1. [Navegação - Activities e Fragments](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/nav-ActivitiesFragments)
+   1. #App6 Cara ou Coroa 
+   1. #App7 ATM Consultoria
 1. Mídias
 1. Firebase
 1. Organizze clone 
