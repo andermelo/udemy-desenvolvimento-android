@@ -20,6 +20,7 @@
 1. [Navegação - Activities e Fragments](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/nav-ActivitiesFragments)
    1. [#App6 Cara ou Coroa](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/nav-ActivitiesFragments/Caraoucoroa) 
    1. #App7 ATM Consultoria
+   1. (Links úteis) [Android About Page](https://github.com/medyo/android-about-page)
 1. Mídias
 1. Firebase
 1. Organizze clone 
