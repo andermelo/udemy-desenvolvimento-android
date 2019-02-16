@@ -20,10 +20,10 @@
 1. [Navegação - Activities e Fragments](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/nav-ActivitiesFragments)
    1. [#App6 Cara ou Coroa](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/nav-ActivitiesFragments/Caraoucoroa) 
    1. [#App7 ATM Consultoria](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/nav-ActivitiesFragments/ATMConsultoria)
-   1. (Links úteis) [Android About Page](https://github.com/medyo/android-about-page)
+   1. (Links úteis) [Android About Page](https://github.com/medyo/android-about-page) :bulb:
 1. Mídias
-   1. (Links úteis) [AudioManager](https://developer.android.com/reference/android/media/AudioManager)
-   1. (Links úteis) [SmartTabLayout][https://github.com/ogaclejapan/SmartTabLayout/]
+   1. (Links úteis) [AudioManager](https://developer.android.com/reference/android/media/AudioManager) :bulb:
+   1. (Links úteis) [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout/) :bulb:
 1. Firebase
 1. Organizze clone 
 1. WhatsApp
