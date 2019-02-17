@@ -24,6 +24,7 @@
 1. Mídias
    1. (Links úteis) [AudioManager](https://developer.android.com/reference/android/media/AudioManager) :bulb:
    1. (Links úteis) [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout/) :bulb:
+   1. Utilizando Abas :exclamation:
 1. Firebase
 1. Organizze clone 
 1. WhatsApp
