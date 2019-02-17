@@ -26,6 +26,7 @@
    1. (Links úteis) [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout/) :bulb:
    1. [Utilizando Abas](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Midias/Abas) :exclamation:
    1. [#App8 Aprenda Inglês](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Midias/AprendaIngles)
+1. Manipulação de dados
 1. Firebase
 1. Organizze clone 
 1. WhatsApp
