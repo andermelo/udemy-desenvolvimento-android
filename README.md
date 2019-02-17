@@ -21,10 +21,11 @@
    1. [#App6 Cara ou Coroa](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/nav-ActivitiesFragments/Caraoucoroa) 
    1. [#App7 ATM Consultoria](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/nav-ActivitiesFragments/ATMConsultoria)
    1. (Links úteis) [Android About Page](https://github.com/medyo/android-about-page) :bulb:
-1. Mídias
+1. [Mídias](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Midias)
    1. (Links úteis) [AudioManager](https://developer.android.com/reference/android/media/AudioManager) :bulb:
    1. (Links úteis) [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout/) :bulb:
-   1. Utilizando Abas :exclamation:
+   1. [Utilizando Abas](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Midias/Abas) :exclamation:
+   1. [#App8 Aprenda Inglês](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Midias/AprendaIngles)
 1. Firebase
 1. Organizze clone 
 1. WhatsApp
