@@ -28,6 +28,7 @@
    1. [#App8 Aprenda Inglês](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Midias/AprendaIngles)
 1. [Manipulação de dados](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/ManipulacaoDados/)
    1. [#App9 Minhas Anotações](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/ManipulacaoDados/MinhasAnotacoes)
+   1. (Links úteis) [Adicionando eventos de clique](https://github.com/jamiltondamasceno/RecyclerItemClickListener/blob/master/RecyclerItemClickListener.java)
 1. Firebase
 1. Organizze clone 
 1. WhatsApp
