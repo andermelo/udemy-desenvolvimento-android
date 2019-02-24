@@ -38,6 +38,9 @@
    1. (Links úteis) 
       1. [Visão geral da documentação sobre autenticação](https://firebase.google.com/docs/reference/android/com/google/firebase/auth/package-summary) :bulb:
       1. [Exceções para criação de usuários](https://firebase.google.com/docs/reference/android/com/google/firebase/auth/FirebaseAuth#createUserWithEmailAndPassword(java.lang.String,%20java.lang.String)) :bulb:
+   1. (Links úteis) [Floating Action Menu](https://github.com/Clans/FloatingActionButton) :bulb:
+      1. [FloatingActionButton](https://github.com/futuresimple/android-floating-action-button)
+      1. [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu)      
 1. WhatsApp
 1. Instagram
 1. Threads & Consumo de serviço Web
