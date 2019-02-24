@@ -33,7 +33,7 @@
    1. [#App10 Lista de tarefas](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/ManipulacaoDados/ListadeTarefas)
 1. [Firebase](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Firebase/FirebaseApp)
 1. Organizze clone
-   1. (Links úteis) [Utilizando sliders](https://github.com/heinrichreimer/material-intro)
+   1. (Links úteis) [Utilizando sliders](https://github.com/heinrichreimer/material-intro) :bulb:
 1. WhatsApp
 1. Instagram
 1. Threads & Consumo de serviço Web
