@@ -34,6 +34,10 @@
 1. [Firebase](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Firebase/FirebaseApp)
 1. Organizze clone
    1. (Links úteis) [Utilizando sliders](https://github.com/heinrichreimer/material-intro) :bulb:
+   1. (Links úteis) [Adicionar o Firebase ao seu projeto do Android](https://firebase.google.com/docs/android/setup?authuser=0) :bulb:
+   1. (Links úteis) 
+      1. [Visão geral da documentação sobre autenticação](https://firebase.google.com/docs/reference/android/com/google/firebase/auth/package-summary) :bulb:
+      1. [Exceções para criação de usuários](https://firebase.google.com/docs/reference/android/com/google/firebase/auth/FirebaseAuth#createUserWithEmailAndPassword(java.lang.String,%20java.lang.String)) :bulb:
 1. WhatsApp
 1. Instagram
 1. Threads & Consumo de serviço Web
