@@ -32,7 +32,7 @@
    1. [Adicionando menu](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/ManipulacaoDados/Menus) :exclamation:
    1. [#App10 Lista de tarefas](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/ManipulacaoDados/ListadeTarefas)
 1. [Firebase](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Firebase/FirebaseApp)
-1. Organizze clone
+1. [Organizze clone](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Organizze)
    1. (Links úteis) [Utilizando sliders](https://github.com/heinrichreimer/material-intro) :bulb:
    1. (Links úteis) [Adicionar o Firebase ao seu projeto do Android](https://firebase.google.com/docs/android/setup?authuser=0) :bulb:
    1. (Links úteis) 
