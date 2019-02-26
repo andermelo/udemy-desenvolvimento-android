@@ -44,6 +44,7 @@
    1. (Links úteis) [Utilizando base 64 e salvando usuario ](https://www.base64decode.org/) :buld:
       1. [Caracteres de escape](http://docs.oracle.com/javase/specs/jls/se7/html/jls-3.html#jls-3.10.6)
    1. (Links úteis) [Exibindo data atual](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)
+   1. (Links úteis) [Calendário - CalendarView](https://github.com/prolificinteractive/material-calendarview)
 1. WhatsApp
 1. Instagram
 1. Threads & Consumo de serviço Web
