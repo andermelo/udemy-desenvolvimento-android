@@ -5,7 +5,7 @@
 
 ## Material desenvolvido durante o curso da [Udemy](https://www.udemy.com/curso-de-desenvolvimento-android-oreo/)
 
-### Conteúdos 
+### Sumário 
 
 1. [Primeiro Projeto (#App1 Sorteio)](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/PrimeiroProjeto)
 1. [Treinando JAVA](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/TreinandoJAVA) :coffee:
