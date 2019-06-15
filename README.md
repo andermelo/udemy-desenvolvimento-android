@@ -1,7 +1,6 @@
 # Desenvolvimento Android
 
-![by Google in the official site for Android app developers](https://github.com/andermelo/udemy-desenvolvimento-android/blob/master/assets/images/android-image.png)
-> *image* :point_up: *by [Android Developer](https://developer.android.com/)* 
+![by Google in the official site for Android app developers](https://developer.android.com/studio/images/studio-homepage-hero.jpg)
 
 ## Material desenvolvido durante o curso da [Udemy](https://www.udemy.com/curso-de-desenvolvimento-android-oreo/)
 
