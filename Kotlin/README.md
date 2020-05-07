@@ -13,7 +13,19 @@
 1. [App Gasolina ou Álcool](AppGasolinaXAlcool)
 
 ## Arrays
-
+```kotlin
+fun main(args: Array<String>) {
+    
+    var nomes = arrayOf("Anderson", "Luana", "Melo")
+    var numeros = intArrayOf(10,15,20)
+    var i = 0
+    nomes[2] = "Pedro"
+    var soma = numeros[0] + numeros[1]
+    println(soma)
+    for(nome in nomes)
+    	println(nome)
+}
+```
 ## Funções
 
 ## Classes e objetos
