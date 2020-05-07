@@ -1,6 +1,6 @@
 # Android com Kotlin
 
-1. [Recursos utilizados]
+1. [Recursos utilizados](#recursos-utilizados)
 1. [AppSorteio](/AppSorteio/)
 
 
