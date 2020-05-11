@@ -27,8 +27,48 @@ fun main(args: Array<String>) {
 }
 ```
 ## Funções
+```kotlin
+fun somar(numero1 : Int, numero2 : Int) : Int{
+    	
+    var resultado = numero1+numero2
+    return resultado
+}
+
+fun main(args: Array<String>) {
+    print(somar(5,6))
+}
+```
 
 ## Classes e objetos
+```kotlin
+class Animal{
+    //propriedades
+    var cor: String = ""
+	
+	//metodos/funções
+	fun som(emite: String){
+        print(emite)
+    }
+    
+    fun come(tipoComida: String){
+        print(tipoComida)
+    }
+    
+    fun teste(){
+        this.som("auaua ")
+        this.come("carne")
+    }
+}
+
+fun main(args: Array<String>) {
+
+    var animal = Animal()
+    animal.cor = "verde"
+    
+    animal.som("latido")
+    animal.teste()
+}
+```
 
 ## Construtores
 
