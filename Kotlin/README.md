@@ -71,10 +71,107 @@ fun main(args: Array<String>) {
 ```
 
 ## Construtores
+```kotlin
+class Animal(cor:String,tamanho:String){
+    //propriedades
+    var cor: String
+    var tamanho: String
+	
+    init{
+        this.cor = cor
+        this.tamanho = tamanho
+    }
+	//metodos/funções
+	fun detalhesAnimal(){
+        print("animal tem a cor $cor do tamanho $tamanho")
+    }
+	fun som(emite: String){
+        print(emite)
+    }
+    
+    fun come(tipoComida: String){
+        print(tipoComida)
+    }
+    
+    fun teste(){
+        this.som("auaua ")
+        this.come("carne")
+    }
+}
+
+fun main(args: Array<String>) {
+    
+    var animal = Animal("azul","pequeno")
+    animal.detalhesAnimal()
+
+}
+```
 
 ## Herança
+```kotlin
+open class Animal(){
+	
+	 open fun dormir(){
+        print("dormir ")
+    }
+
+}
+
+class Cao : Animal(){
+  override fun dormir(){
+      super.dormir()
+      print("como um Cão")
+  }
+  
+  fun latir(){
+      print("latir")
+  }
+  
+}
+
+class Passaro : Animal(){
+  override fun dormir(){
+      super.dormir()
+      print("como um Passaro")
+  }
+  
+}
+
+fun main(args: Array<String>) {
+    val cao = Cao()
+    cao.dormir()
+    
+//     val passaro = Passaro()
+//     passaro.dormir()
+
+}
+```
 
 ## Modificadores de acesso
+
+* private -> Visivel apenas dentro da classe 3 
+* protected -> Funciona como o "private", mas é visivel em subclasses
+* public -> Visivel em todo lugar, caso não seja definido é o padrão.
+* internal -> Lembra o Public, mas sua visibilidade é restringida ao módulo, sendo então visivel dentro de um 7 mesmo módulo.
+
+```kotlin
+class Animal(){
+	
+	//private, protected, public
+    private var nome =  "Marley"
+	 open fun dormir(){
+        print("dormir ")
+    }
+
+}
+
+
+fun main(args: Array<String>) {
+   
+	val animal = Animal()
+    print(animal.nome)
+}
+```
 
 ## Recursos utilizados
 
