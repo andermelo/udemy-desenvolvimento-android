@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Fuel</string>
+    <string name="app_name">Fuel App</string>
+    <string name="title_fuel_gasoline">Gasolina</string>
+    <string name="title_fuel_etanol">Etanol</string>
+    <string name="welcome_text">Veja a melhor opção de combustível hoje!!</string>
+    <string name="buttom_disable">Insira os valores</string>
+    <string name="buttom_calculo">Calcular</string>
 </resources>
