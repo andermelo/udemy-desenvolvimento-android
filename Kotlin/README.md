@@ -10,7 +10,7 @@
 1. [Construtores](#construtores)
 1. [Herança](#herança)
 1. [Modificadores de acesso](#modificadores-de-acesso)
-1. [App Gasolina ou Etanol](/WhichFuel/)
+1. [App Gasolina ou Etanol](/WhichFuel)
 
 ## Arrays
 ```kotlin
