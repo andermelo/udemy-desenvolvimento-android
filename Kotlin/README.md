@@ -3,14 +3,14 @@
 ![Kotlin banner](../assets/images/kotlin.png)
 
 1. [Recursos utilizados](#recursos-utilizados)
-1. [AppSorteio](/AppSorteio)
+1. [AppSorteio](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Kotlin/AppSorteio)
 1. [Arrays](#arrays)
 1. [Funções](#funções)
 1. [Classes e objetos](#classes-e-objetos)
 1. [Construtores](#construtores)
 1. [Herança](#herança)
 1. [Modificadores de acesso](#modificadores-de-acesso)
-1. [App Gasolina ou Etanol](/WhichFuel)
+1. [App Gasolina ou Etanol](https://github.com/andermelo/udemy-desenvolvimento-android/tree/master/Kotlin/WhichFuel)
 
 ## Arrays
 ```kotlin
