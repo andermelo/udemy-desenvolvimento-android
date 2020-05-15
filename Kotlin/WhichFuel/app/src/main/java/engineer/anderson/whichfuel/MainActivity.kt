@@ -1,9 +1,15 @@
 package engineer.anderson.whichfuel
+import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.KeyEvent
 import android.view.View
+import android.view.Window
+import android.view.WindowManager
 import android.view.animation.AnimationUtils
+import android.view.inputmethod.InputMethodManager
 import android.widget.Button
+import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import kotlinx.android.synthetic.main.activity_main.*
@@ -49,18 +55,26 @@ class MainActivity : AppCompatActivity() {
         fun chamarAlert() {
 
             var alertDialog = AlertDialog.Builder(this)
-            alertDialog.setTitle("Atenção") // O Titulo da notificação
-            alertDialog.setMessage("Insira valores válidos!") // a mensagem ou alerta
+            alertDialog.setTitle("Atenção")
+            alertDialog.setMessage("Insira valores válidos!")
 
             alertDialog.setPositiveButton("Ok", { _, _ ->
 
-                //Aqui sera executado a instrução a sua escolha
                 //Toast.makeText(this, "Ok", Toast.LENGTH_LONG).show()
 
             })
 
 
             alertDialog.show()
+        }
+
+        fun fecharTeclado(){
+            val view = this.currentFocus
+            if(view != null){
+                val hideMe = getSystemService( Context.INPUT_METHOD_SERVICE) as InputMethodManager
+                hideMe.hideSoftInputFromWindow(view.windowToken, 0)
+            }
+            window.setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN)
         }
 
         fun calcularPreco() {
@@ -76,18 +90,29 @@ class MainActivity : AppCompatActivity() {
             }else{
                 chamarAlert()
             }
+
         }
 
+        fun botaoCheck(editText: EditText) {
+            editText.setOnKeyListener(View.OnKeyListener{v, keyCode, event ->
+                if (keyCode  == KeyEvent.KEYCODE_ENTER && event.action == KeyEvent.ACTION_UP){
+                    calcularPreco()
+                    fecharTeclado()
+                    return@OnKeyListener  true
+                }
+                false
+            })
+        }
 
+        botaoCheck(editTextGasolina)
+        botaoCheck(editTextEtanol)
 
         var buttonCacular = button as Button
         buttonCacular.setOnClickListener{
             calcularPreco()
+            fecharTeclado()
             //chamarAlert()
         }
-
-
-
 
     }
 }
