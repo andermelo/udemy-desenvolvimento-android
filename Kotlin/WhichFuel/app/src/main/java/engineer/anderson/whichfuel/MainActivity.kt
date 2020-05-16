@@ -8,10 +8,9 @@ import android.view.Window
 import android.view.WindowManager
 import android.view.animation.AnimationUtils
 import android.view.inputmethod.InputMethodManager
-import android.widget.Button
-import android.widget.EditText
-import android.widget.Toast
+import android.widget.*
 import androidx.appcompat.app.AlertDialog
+import com.google.android.material.textfield.TextInputEditText
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -22,6 +21,25 @@ class MainActivity : AppCompatActivity() {
 
         //animação
         val ttb = AnimationUtils.loadAnimation(this,R.anim.ttb)
+        val stb = AnimationUtils.loadAnimation(this,R.anim.stb)
+        val btn = AnimationUtils.loadAnimation(this,R.anim.btn)
+
+        //1
+        val textoWelcome = findViewById(R.id.textoWelcome) as TextView
+        val imagemResultado = findViewById(R.id.imagemResultado) as ImageView
+        //2
+        val editTextGasolina = findViewById(R.id.editTextGasolina) as EditText
+        val editTextEtanol= findViewById(R.id.editTextEtanol) as EditText
+        val button = findViewById(R.id.button) as Button
+
+        textoWelcome.startAnimation(ttb)
+        imagemResultado.startAnimation(ttb)
+
+        editTextGasolina.startAnimation(stb)
+        editTextEtanol.startAnimation(stb)
+        button.startAnimation(btn)
+
+
 
         fun calcularMelhorPreco(precoGasolina: String, precoEtanol: String){
 
