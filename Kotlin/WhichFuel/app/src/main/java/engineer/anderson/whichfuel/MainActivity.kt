@@ -61,9 +61,9 @@ class MainActivity : AppCompatActivity() {
         fun validarCampos(precoGasolina: String, precoEtanol: String) : Boolean{
 
             var camposValidados: Boolean = true
-            if (precoGasolina == null || precoGasolina.equals("")){
+            if (precoGasolina.equals("")){
                 camposValidados = false
-            }else if (precoEtanol == null || precoEtanol.equals("")){
+            }else if (precoEtanol.equals("")){
                 camposValidados = false
             }
 
